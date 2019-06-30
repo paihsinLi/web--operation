@@ -142,6 +142,6 @@ A/B测试结果
 ![avatar](https://github.com/paihsinLi/web--operation/blob/master/img/17.png)
 
 * 定制化方案2
-1.保护网站的图片版权，安装版权保护的插件WP-copyright-protection。
+1. 保护网站的图片版权，安装版权保护的插件WP-copyright-protection。
 
 ![avatar](https://github.com/paihsinLi/web--operation/blob/master/img/18.png)
